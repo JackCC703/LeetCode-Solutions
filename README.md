@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JackCC703/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/JackCC703/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/JackCC703/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JackCC703/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/JackCC703/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/JackCC703/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
