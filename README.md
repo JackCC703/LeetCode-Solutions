@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/JackCC703/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/JackCC703/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0896-monotonic-array](https://github.com/JackCC703/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/JackCC703/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/JackCC703/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Math
